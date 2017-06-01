@@ -1,5 +1,5 @@
-function twoSmallesst(nums) {
-    let arr = nums.sort((a,b) => b-a).slice(-2).reverse();
+function twoSmallest(nums) {
+    let arr = nums.sort((a,b) => a-b).slice(0,2);
     console.log(arr);
 }
-console.log(twoSmallesst([30, 15, 50, 5,40]));
+console.log(twoSmallest([30, 15, 50, 5,40]));
