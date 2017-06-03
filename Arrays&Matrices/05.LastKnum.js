@@ -1,12 +1,14 @@
-function sumLastKNumbersSequence(n, k) {
-    let seq = [1];
-    let result = 0;
-    for (let i = 1; i < n.length; i++) {
-        let start = Math.max(0,i-k);
-        let tempArray = seq.slice(start, start + n);
-        result = tempArray.reduce((a, b)=>a + b);
-    }
-    console.log(result);
-
-    }
-console.log(sumLastKNumbersSequence(6, 3));
+function printKNumbers(n, k) {
+    let result = [1];
+        for (let i = 0; i < n - 1; i++) {
+            let newElement = 0;
+            for (let j = k - 1; j >= 0; j--) {
+                if (j <= i) {
+                    newElement += result[i - j];
+                }
+            }
+            result.push(newElement);
+        }
+        console.log(result.join(' '));
+}
+console.log(printKNumbers(6, 3));
