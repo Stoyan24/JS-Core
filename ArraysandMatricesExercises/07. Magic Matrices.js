@@ -1,21 +1,26 @@
-function trueOrFalseMatrix(matrix) {
-
-    let result1 = 0;
-    let result2 = 0;
-    for(let row = 0; row < 1; row++) {
-        for (let col = 0; col < 1; col++) {
-            result1 += matrix[row][col];
-            result2 += matrix[col][row];
+function isMagic(input) {
+    let sumCol = [];
+    let sumRow = [];
+    let magicNum = input[0].reduce((a,b) => a + b);
+    for (let row = 0; row < input.length; row++) {
+        let sum = input[row].reduce((a,b) => a + b);
+        if(magicNum != sum){
+            return console.log(false);
         }
-
+        sumRow.push(sum);
+        for (let col = 0; col < input.length; col++) {
+            if(sumCol[row] == null){
+                sumCol[row] = 0;
+            }
+            sumCol[row] += input[row][col];
+        }
+        if(magicNum != sumCol[row]){
+            return console.log(false);
+        }
     }
-    if(result1 === result2){
-        console.log('true');
-    }else{
-        console.log('false')
-    }
+    console.log(true);
 }
-console.log(trueOrFalseMatrix(
-    [[1, 0, 0],
+console.log(isMagic(
+        [[1, 0, 0],
         [0, 0, 1],
         [0, 1, 0]]));
