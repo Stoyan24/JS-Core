@@ -1,2 +1,2 @@
-# JS-Fundamentals
-Labs and Homework from JS Fundamentals  
+JS-Core
+Homeworks and labs from the course.
