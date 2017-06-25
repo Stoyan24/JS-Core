@@ -41,9 +41,16 @@
 
            newDiv.appendChild(newPar);
 
-           newDiv.addEventListener('click', function(){
-               newPar.style.display = 'block';
-           });
+           newDiv.addEventListener('click', cloker);
+
+
+           function cloker() {
+               if(newPar.style.display === 'none'){
+                   newPar.style.display = 'block';
+               }else {
+                   newPar.style.display = 'none';
+               }
+           }
            content.appendChild(newDiv);
        }
 
