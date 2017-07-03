@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="648ea9a2-81b8-462c-879d-d2fcf76c5079" name="Default" comment="Got the fucking shit task">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS-Advanced/JQUERY/03. Countries Table/countries.html" afterPath="$PROJECT_DIR$/JS-Advanced/JQUERY/03. Countries Table/countries.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +20,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OrderRectangles.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS-Advanced/Object Composition/01. Order Rectangles/OrderRectangles.js">
+      <file leaf-file-name="sum.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS-Advanced/Object Composition/05. Sum/sum.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="435">
+              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -34,8 +37,8 @@
       <list>
         <option value="TypeScript File" />
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -56,12 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JS-Advanced/ExerciseDOM-Manipulations/05. Notification/notification.html" />
-        <option value="$PROJECT_DIR$/JS-Advanced/ExerciseDOM-Manipulations/06. Time Converter/timeConverter.html" />
-        <option value="$PROJECT_DIR$/JS-Advanced/ExerciseDOM-Manipulations/06. Time Converter/timeConverter.js" />
-        <option value="$PROJECT_DIR$/JS-Advanced/ExerciseDOM-Manipulations/07. Distance Converter/distanceConverter.html" />
-        <option value="$PROJECT_DIR$/JS-Advanced/ExerciseDOM-Manipulations/07. Distance Converter/distanceConverter.js" />
-        <option value="$PROJECT_DIR$/JS-Advanced/JQUERY/text.html" />
         <option value="$PROJECT_DIR$/JS-Advanced/JQUERY/01. Text from List/text.html" />
         <option value="$PROJECT_DIR$/JS-Advanced/JQUERY/01. Text from List/extract-text.js" />
         <option value="$PROJECT_DIR$/JS-Advanced/JQUERY/01. Text from List/extractText.js" />
@@ -107,6 +104,12 @@
         <option value="$PROJECT_DIR$/JS-Advanced/ExerciseAdvanced Functions/8.Euclid’s Algorithm/Euclid’sAlgorithm.js" />
         <option value="$PROJECT_DIR$/JS-Advanced/ExerciseAdvanced Functions/9.Kepler’sProblem/Kepler’sProblem.js" />
         <option value="$PROJECT_DIR$/JS-Advanced/Object Composition/01. Order Rectangles/OrderRectangles.js" />
+        <option value="$PROJECT_DIR$/JS-Advanced/Object Composition/02. Fibonacci/Fibonacci.js" />
+        <option value="$PROJECT_DIR$/JS-Advanced/Object Composition/03. List Processor/ListProcessor.js" />
+        <option value="$PROJECT_DIR$/JS-Advanced/Object Composition/04. Object Inheritance/ObjectInheritance.js" />
+        <option value="$PROJECT_DIR$/JS-Advanced/Object Composition/05. Sum/jquery-3.2.1.min.js" />
+        <option value="$PROJECT_DIR$/JS-Advanced/JQUERY/03. Countries Table/countries.html" />
+        <option value="$PROJECT_DIR$/JS-Advanced/Object Composition/05. Sum/sum.html" />
       </list>
     </option>
   </component>
@@ -143,6 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -168,11 +172,28 @@
               <option name="myItemId" value="JS-Advanced" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Object Composition" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Advanced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,20 +226,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.OrderRectangles.js">
-    <configuration default="false" name="BreakfastRobot.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="BreakfastRobot.js" working-dir="$PROJECT_DIR$/JS-Advanced/ExerciseAdvanced Functions/6.Breakfast Robot">
-      <method />
-    </configuration>
-    <configuration default="false" name="MonkeyPatcher.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="MonkeyPatcher.js" working-dir="$PROJECT_DIR$/JS-Advanced/ExerciseAdvanced Functions/7.Monkey Patcher">
-      <method />
-    </configuration>
-    <configuration default="false" name="Euclid’sAlgorithm.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Euclid’sAlgorithm.js" working-dir="$PROJECT_DIR$/JS-Advanced/ExerciseAdvanced Functions/8.Euclid’s Algorithm">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.ObjectInheritance.js">
     <configuration default="false" name="Kepler’sProblem.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Kepler’sProblem.js" working-dir="$PROJECT_DIR$/JS-Advanced/ExerciseAdvanced Functions/9.Kepler’sProblem">
       <method />
     </configuration>
     <configuration default="false" name="OrderRectangles.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="OrderRectangles.js" working-dir="$PROJECT_DIR$/JS-Advanced/Object Composition/01. Order Rectangles">
+      <method />
+    </configuration>
+    <configuration default="false" name="Fibonacci.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Fibonacci.js" working-dir="$PROJECT_DIR$/JS-Advanced/Object Composition/02. Fibonacci">
+      <method />
+    </configuration>
+    <configuration default="false" name="ListProcessor.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ListProcessor.js" working-dir="$PROJECT_DIR$/JS-Advanced/Object Composition/03. List Processor">
+      <method />
+    </configuration>
+    <configuration default="false" name="ObjectInheritance.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ObjectInheritance.js" working-dir="$PROJECT_DIR$/JS-Advanced/Object Composition/04. Object Inheritance">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -288,19 +309,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.BreakfastRobot.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.MonkeyPatcher.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Euclid’sAlgorithm.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.Kepler’sProblem.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.OrderRectangles.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Kepler’sProblem.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.OrderRectangles.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Fibonacci.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.ListProcessor.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.ObjectInheritance.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.OrderRectangles.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Kepler’sProblem.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.Euclid’sAlgorithm.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.MonkeyPatcher.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.BreakfastRobot.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.ObjectInheritance.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.ListProcessor.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Fibonacci.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.OrderRectangles.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Kepler’sProblem.js" />
       </list>
     </recent_temporary>
   </component>
@@ -361,6 +382,7 @@
       <workItem from="1498811840813" duration="14651000" />
       <workItem from="1498901406757" duration="5283000" />
       <workItem from="1499011849051" duration="3598000" />
+      <workItem from="1499075853877" duration="9646000" />
     </task>
     <task id="LOCAL-00001" summary="upp">
       <created>1496256470499</created>
@@ -443,12 +465,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="254784000" />
+    <option name="totallyTimeSpent" value="264430000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13588588" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.115615614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -507,69 +529,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/JQUERY/03. Countries Table/countries.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/JQUERY/04. Link Buttons/link-buttons.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/ExerciseDOM-Manipulations/03. Accordion/accordion.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/ExerciseDOM-Manipulations/05. Notification/notification.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/ExerciseDOM-Manipulations/04. Sections/sections.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/JQUERY/04. Link Buttons/buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/JQUERY/05. Selectable Towns/select.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/JQUERY/05. Selectable Towns/towns.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/ExercisejQuery/01. Increment Counter/incrementCounter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS-Advanced/ExercisejQuery/01. Increment Counter/incrementCounter.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -633,13 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/JQUERY/02. Search in List/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -819,14 +771,95 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS-Advanced/Object Composition/01. Order Rectangles/OrderRectangles.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="396">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/Object Composition/02. Fibonacci/Fibonacci.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/Object Composition/03. List Processor/ListProcessor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/Object Composition/04. Object Inheritance/ObjectInheritance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/JQUERY/01. Text from List/text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/JQUERY/04. Link Buttons/buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Downloads/jquery-3.2.1.min (1).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/Object Composition/05. Sum/jquery-3.2.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/JQUERY/02. Search in List/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/JQUERY/03. Countries Table/countries.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/Object Composition/05. Sum/sum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding />
         </state>
       </provider>

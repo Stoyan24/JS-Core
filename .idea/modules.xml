@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JS-Core.iml" filepath="$PROJECT_DIR$/.idea/JS-Core.iml" />
-      <module fileurl="file://D:\SoftUni\JS-Core\.idea\JS-Fundamentals.iml" filepath="D:\SoftUni\JS-Core\.idea\JS-Fundamentals.iml" />
     </modules>
   </component>
 </project>
