@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="648ea9a2-81b8-462c-879d-d2fcf76c5079" name="Default" comment="Got the fucking shit task">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/JS-Core.iml" afterPath="$PROJECT_DIR$/.idea/JS-Core.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,14 +17,42 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test.js">
+      <file leaf-file-name="01. Rectangle Class.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS-Advanced/JS CLASSES/01. Rectangle Class.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-              <folding>
-                <marker date="1499436110072" expanded="true" signature="148:237" ph="..." />
-              </folding>
+            <state relative-caret-position="234">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02. Person Class.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS-Advanced/JS CLASSES/02. Person Class.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04. Circle.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS-Advanced/JS CLASSES/04. Circle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03. Get Persons.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS-Advanced/JS CLASSES/03. Get Persons.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -38,8 +64,8 @@
       <list>
         <option value="TypeScript File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -60,10 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JS-Advanced/Advanced functions/01. Aggregates/Aggregates.js" />
-        <option value="$PROJECT_DIR$/JS-Advanced/Advanced functions/03. Command Processor/CommandProcessor.js" />
-        <option value="$PROJECT_DIR$/JS-Advanced/Advanced functions/04. Max Element/maxEl.js" />
-        <option value="$PROJECT_DIR$/JS-Advanced/Advanced functions/5.Next Article/article.html" />
         <option value="$PROJECT_DIR$/JS-Advanced/Advanced functions/02. Currency Format/CurrencyFormat.js" />
         <option value="$PROJECT_DIR$/JS-Advanced/Advanced functions/5.Next Article/next-article.js" />
         <option value="$PROJECT_DIR$/JS-Advanced/ExerciseAdvanced Functions/01. Sort Array/sortArray.js" />
@@ -111,6 +133,10 @@
         <option value="$PROJECT_DIR$/JS-Advanced/ExercisesUnitTestingandErrorHandling/06. ArmageDOM/jquery-3.2.1.min.js" />
         <option value="$PROJECT_DIR$/JS-Advanced/ExercisesUnitTestingandErrorHandling/06. ArmageDOM/armagedom.html" />
         <option value="$PROJECT_DIR$/JS-Advanced/ExercisesUnitTestingandErrorHandling/06. ArmageDOM/armagedom.js" />
+        <option value="$PROJECT_DIR$/JS-Advanced/JS CLASSES/01. Rectangle Class.js" />
+        <option value="$PROJECT_DIR$/JS-Advanced/JS CLASSES/03. Get Persons.js" />
+        <option value="$PROJECT_DIR$/JS-Advanced/JS CLASSES/02. Person Class.js" />
+        <option value="$PROJECT_DIR$/JS-Advanced/JS CLASSES/04. Circle.js" />
       </list>
     </option>
   </component>
@@ -149,6 +175,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -161,10 +188,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Advanced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Advanced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS CLASSES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,13 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.ArmageDom">
-    <configuration default="false" name="SumofNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="SumofNumbers.js" working-dir="$PROJECT_DIR$/JS-Advanced/Unit Testing/04. Sum of Numbers">
-      <method />
-    </configuration>
-    <configuration default="false" name="Check for Symmetry.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Check for Symmetry.js" working-dir="$PROJECT_DIR$/JS-Advanced/Unit Testing/05. Check for Symmetry">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.02. Person Class.js">
     <configuration default="false" name="CharLookup.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="CharLookup.js" working-dir="$PROJECT_DIR$/JS-Advanced/ExercisesUnitTestingandErrorHandling/03. Char Lookup">
       <method />
     </configuration>
@@ -222,6 +274,12 @@
       <extra-mocha-options />
       <test-kind>TEST_FILE</test-kind>
       <test-file>$PROJECT_DIR$/JS-Advanced/ExercisesUnitTestingandErrorHandling/06. ArmageDOM/armagedom.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="02. Person Class.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02. Person Class.js" working-dir="$PROJECT_DIR$/JS-Advanced/JS CLASSES">
+      <method />
+    </configuration>
+    <configuration default="false" name="03. Get Persons.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03. Get Persons.js" working-dir="$PROJECT_DIR$/JS-Advanced/JS CLASSES">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -305,19 +363,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Mocha.ArmageDom" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.SumofNumbers.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Check for Symmetry.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.CharLookup.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.SharedObject.js" />
-      <item index="5" class="java.lang.String" itemvalue="Mocha.JS-Advanced\ExercisesUnitTestingandErrorHandling\06. ArmageDOM\armagedom.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.CharLookup.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.SharedObject.js" />
+      <item index="3" class="java.lang.String" itemvalue="Mocha.JS-Advanced\ExercisesUnitTestingandErrorHandling\06. ArmageDOM\armagedom.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.02. Person Class.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.03. Get Persons.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Mocha.JS-Advanced\ExercisesUnitTestingandErrorHandling\06. ArmageDOM\armagedom.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.SharedObject.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.CharLookup.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Check for Symmetry.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.SumofNumbers.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.02. Person Class.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.03. Get Persons.js" />
+        <item index="2" class="java.lang.String" itemvalue="Mocha.JS-Advanced\ExercisesUnitTestingandErrorHandling\06. ArmageDOM\armagedom.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.SharedObject.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.CharLookup.js" />
       </list>
     </recent_temporary>
   </component>
@@ -388,6 +446,8 @@
       <workItem from="1499432614794" duration="2145000" />
       <workItem from="1499442277413" duration="5401000" />
       <workItem from="1499511817856" duration="6985000" />
+      <workItem from="1499525481495" duration="973000" />
+      <workItem from="1499696801518" duration="4753000" />
     </task>
     <task id="LOCAL-00001" summary="upp">
       <created>1496256470499</created>
@@ -502,12 +562,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="305414000" />
+    <option name="totallyTimeSpent" value="311140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1370" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13220088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13220088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -566,22 +627,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/Advanced functions/test.js" />
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/ExerciseAdvanced Functions/4.Personal BMI/bim.html" />
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/DOM Manipulation/03. Delete from Table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-279">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/ExercisejQuery/03. Book Generator/book-generator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS-Advanced/ExercisejQuery/03. Book Generator/book-generator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -826,7 +871,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="13" column="100" lean-forward="false" selection-start-line="13" selection-start-column="100" selection-end-line="13" selection-end-column="100" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -855,7 +899,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="39" column="6" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -863,34 +906,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="69" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/ExercisesUnitTestingandErrorHandling/06. ArmageDOM/jquery-3.2.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/ExercisesUnitTestingandErrorHandling/06. ArmageDOM/armagedom.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/ExercisesUnitTestingandErrorHandling/06. ArmageDOM/jquery-3.2.1.min.js" />
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/ExercisesUnitTestingandErrorHandling/06. ArmageDOM/armagedom.html" />
     <entry file="file://$PROJECT_DIR$/JS-Advanced/ExercisesUnitTestingandErrorHandling/05. Shared Object/SharedObject.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <marker date="1499517811076" expanded="true" signature="136:256" ph="..." />
-            <marker date="1499517811076" expanded="true" signature="159:248" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -898,23 +922,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
           <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <marker date="1499520689492" expanded="true" signature="366:778" ph="..." />
-            <marker date="1499520689492" expanded="true" signature="392:762" ph="..." />
-            <marker date="1499520689492" expanded="true" signature="432:492" ph="..." />
-            <marker date="1499520689492" expanded="true" signature="525:577" ph="..." />
-            <marker date="1499520689492" expanded="true" signature="610:747" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-          <folding>
-            <marker date="1499436110072" expanded="true" signature="148:237" ph="..." />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/JS CLASSES/01. Rectangle Class.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/JS CLASSES/03. Get Persons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/JS CLASSES/02. Person Class.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/JS CLASSES/04. Circle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
