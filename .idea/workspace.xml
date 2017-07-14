@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="648ea9a2-81b8-462c-879d-d2fcf76c5079" name="Default" comment="Got the fucking shit task">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS-Advanced/Prototype Chain/01. Person and Teacher.js" afterPath="$PROJECT_DIR$/JS-Advanced/Prototype Chain/01. Person and Teacher.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,18 +17,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="01. Person and Teacher.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS-Advanced/Prototype Chain/01. Person and Teacher.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,9 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JS-Advanced/ExerciseAdvanced Functions/8.Euclid’s Algorithm/Euclid’sAlgorithm.js" />
-        <option value="$PROJECT_DIR$/JS-Advanced/ExerciseAdvanced Functions/9.Kepler’sProblem/Kepler’sProblem.js" />
-        <option value="$PROJECT_DIR$/JS-Advanced/Object Composition/01. Order Rectangles/OrderRectangles.js" />
         <option value="$PROJECT_DIR$/JS-Advanced/Object Composition/02. Fibonacci/Fibonacci.js" />
         <option value="$PROJECT_DIR$/JS-Advanced/Object Composition/03. List Processor/ListProcessor.js" />
         <option value="$PROJECT_DIR$/JS-Advanced/Object Composition/04. Object Inheritance/ObjectInheritance.js" />
@@ -109,6 +96,9 @@
         <option value="$PROJECT_DIR$/JS-Advanced/EXERCISE JS CLASSES/08. View Model/view-model.html" />
         <option value="$PROJECT_DIR$/JS-Advanced/EXERCISE JS CLASSES/08. View Model/view-model.js" />
         <option value="$PROJECT_DIR$/JS-Advanced/Prototype Chain/01. Person and Teacher.js" />
+        <option value="$PROJECT_DIR$/JS-Advanced/Prototype Chain/02. Inheriting toString.js" />
+        <option value="$PROJECT_DIR$/JS-Advanced/Prototype Chain/03. Extending Prototype.js" />
+        <option value="$PROJECT_DIR$/JS-Advanced/Prototype Chain/04. Class Hierarchy.js" />
       </list>
     </option>
   </component>
@@ -173,6 +163,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS-Advanced" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Prototype Chain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -211,20 +219,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.07. Instance Validation.js">
-    <configuration default="false" name="02. Tickets.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02. Tickets.js" working-dir="$PROJECT_DIR$/JS-Advanced/EXERCISE JS CLASSES">
-      <method />
-    </configuration>
-    <configuration default="false" name="03. Unity.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03. Unity.js" working-dir="$PROJECT_DIR$/JS-Advanced/EXERCISE JS CLASSES">
-      <method />
-    </configuration>
-    <configuration default="false" name="05. Extensible Class.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05. Extensible Class.js" working-dir="$PROJECT_DIR$/JS-Advanced/EXERCISE JS CLASSES">
-      <method />
-    </configuration>
-    <configuration default="false" name="SortedList.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="SortedList.js" working-dir="$PROJECT_DIR$/JS-Advanced/ExercisesObjects,InheritanceandPrototypes/06. Sorted List">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.01. Person and Teacher.js">
     <configuration default="false" name="07. Instance Validation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07. Instance Validation.js" working-dir="$PROJECT_DIR$/JS-Advanced/EXERCISE JS CLASSES">
+      <method />
+    </configuration>
+    <configuration default="false" name="01. Person and Teacher.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01. Person and Teacher.js" working-dir="$PROJECT_DIR$/JS-Advanced/Prototype Chain">
+      <method />
+    </configuration>
+    <configuration default="false" name="02. Inheriting toString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02. Inheriting toString.js" working-dir="$PROJECT_DIR$/JS-Advanced/Prototype Chain">
+      <method />
+    </configuration>
+    <configuration default="false" name="04. Class Hierarchy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04. Class Hierarchy.js" working-dir="$PROJECT_DIR$/JS-Advanced/Prototype Chain">
+      <method />
+    </configuration>
+    <configuration default="false" name="03. Extending Prototype.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03. Extending Prototype.js" working-dir="$PROJECT_DIR$/JS-Advanced/Prototype Chain">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -308,19 +316,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Mocha.ArmageDom" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.02. Tickets.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.03. Unity.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.05. Extensible Class.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.SortedList.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.07. Instance Validation.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.07. Instance Validation.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.01. Person and Teacher.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.02. Inheriting toString.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.04. Class Hierarchy.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.03. Extending Prototype.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.07. Instance Validation.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.SortedList.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.05. Extensible Class.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.03. Unity.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.02. Tickets.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.01. Person and Teacher.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.02. Inheriting toString.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.03. Extending Prototype.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.04. Class Hierarchy.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.07. Instance Validation.js" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +404,8 @@
       <workItem from="1499780885676" duration="8882000" />
       <workItem from="1499857301692" duration="7244000" />
       <workItem from="1499872574213" duration="859000" />
-      <workItem from="1499957787684" duration="2838000" />
+      <workItem from="1499957787684" duration="4037000" />
+      <workItem from="1500034954220" duration="5403000" />
     </task>
     <task id="LOCAL-00001" summary="upp">
       <created>1496256470499</created>
@@ -511,21 +520,20 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="330963000" />
+    <option name="totallyTimeSpent" value="337565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1370" height="744" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13220088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2917981" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2917981" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -576,27 +584,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/JQUERY/01. Text from List/text.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Advanced/JQUERY/04. Link Buttons/buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Downloads/jquery-3.2.1.min (1).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS-Advanced/Object Composition/05. Sum/jquery-3.2.1.min.js" />
     <entry file="file://$PROJECT_DIR$/JS-Advanced/JQUERY/02. Search in List/list.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -895,7 +882,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -907,10 +893,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/Prototype Chain/03. Extending Prototype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/Prototype Chain/02. Inheriting toString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JS-Advanced/Prototype Chain/01. Person and Teacher.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="n#Person#0;n#!!block;n#personAndTeacherClasses#0" expanded="false" />
+            <element signature="n#Teacher#0;n#!!block;n#personAndTeacherClasses#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Advanced/Prototype Chain/04. Class Hierarchy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
           <folding />
         </state>
       </provider>
