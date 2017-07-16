@@ -1,0 +1,8 @@
+{
+  "name": "JS-Core",
+  "version": "0.0.1",
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-amd": "^6.24.1",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1"
+  }
+}
