@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="648ea9a2-81b8-462c-879d-d2fcf76c5079" name="Default" comment="Got the fucking shit task">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/JS-Core.iml" afterPath="$PROJECT_DIR$/.idea/JS-Core.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="648ea9a2-81b8-462c-879d-d2fcf76c5079" name="Default" comment="Got the fucking shit task" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -380,7 +376,7 @@
       <workItem from="1500034954220" duration="5403000" />
       <workItem from="1500126731496" duration="11221000" />
       <workItem from="1500205948457" duration="9316000" />
-      <workItem from="1500289320681" duration="1889000" />
+      <workItem from="1500289320681" duration="3090000" />
     </task>
     <task id="LOCAL-00001" summary="upp">
       <created>1496256470499</created>
@@ -495,7 +491,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="359991000" />
+    <option name="totallyTimeSpent" value="361192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
