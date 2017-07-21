@@ -6,7 +6,6 @@ describe('Sorted List Unit Test', function () {
     beforeEach(function () {
         myList = new SortedList();
     });
-
     describe('Test initial state', function () {
         it('add exists', function () {
             expect(SortedList.prototype.hasOwnProperty('add')).to.equal(true);
