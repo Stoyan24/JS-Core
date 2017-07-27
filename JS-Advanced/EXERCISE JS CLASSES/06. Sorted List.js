@@ -10,7 +10,7 @@ class SortedList{
     }
     add(element){
         this.nums.push(element);
-        this.size++;
+        this._size++;
         this.nums = this.nums.sort((a,b)=> a -b )
         return this.nums;
     }
@@ -18,7 +18,7 @@ class SortedList{
         if(index < this.nums.length && index >=0){
             this.nums.splice(index,1);
             this.nums = this.nums.sort((a,b) => a-b);
-            this.size--;
+            this._size--;
             return this.nums;
         }
     }}
