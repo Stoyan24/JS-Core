@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="648ea9a2-81b8-462c-879d-d2fcf76c5079" name="Default" comment="Got the fucking shit task">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JS-Advanced/EXERCISE JS CLASSES/06. Sorted List.js" afterPath="$PROJECT_DIR$/JS-Advanced/EXERCISE JS CLASSES/06. Sorted List.js" />
-    </list>
+    <list default="true" id="648ea9a2-81b8-462c-879d-d2fcf76c5079" name="Default" comment="Got the fucking shit task" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -49,11 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/JS-Advanced/MODULES/02. Map Sort/02. Map Sort.js" />
-        <option value="$PROJECT_DIR$/JS-Advanced/MODULES/02. Map Sort/app.js" />
-        <option value="$PROJECT_DIR$/JS-Advanced/MODULES/03. Load Data/03. Load Data.js" />
-        <option value="$PROJECT_DIR$/JS-Advanced/MODULES/03. Load Data/app.js" />
         <option value="$PROJECT_DIR$/JS-Advanced/MODULES/03. Load Data/data.js" />
         <option value="$PROJECT_DIR$/JS-Advanced/MODULES/04. Inheritance/Dog.js" />
         <option value="$PROJECT_DIR$/JS-Advanced/MODULES/04. Inheritance/Entity.js" />
@@ -100,6 +92,11 @@
         <option value="$PROJECT_DIR$/JS-Applications/AJAX and jQuery AJAX/02. AJAX Load/ajax-load.html" />
         <option value="$PROJECT_DIR$/JS-Applications/AJAX and jQuery AJAX/02. AJAX Load/ajax-load.js" />
         <option value="$PROJECT_DIR$/JS-Applications/AJAX and jQuery AJAX/03. Github Repos/github-repos.html" />
+        <option value="$PROJECT_DIR$/JS-Applications/EXERCISE REST AND HTTP REQUESTS/01. Bus Stop/buses.html" />
+        <option value="$PROJECT_DIR$/JS-Applications/EXERCISE REST AND HTTP REQUESTS/02. Bus Schedule/schedule.html" />
+        <option value="$PROJECT_DIR$/JS-Applications/EXERCISE REST AND HTTP REQUESTS/03. Messenger/messenger.html" />
+        <option value="$PROJECT_DIR$/JS-Applications/EXERCISE REST AND HTTP REQUESTS/03. Messenger/solution.js" />
+        <option value="$PROJECT_DIR$/JS-Applications/EXERCISE REST AND HTTP REQUESTS/04. Phonebook/phonebook.html" />
       </list>
     </option>
   </component>
@@ -140,7 +137,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -153,40 +149,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Applications" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EXERCISE REST AND HTTP REQUESTS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Applications" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,10 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.RealExam\02. Sumator Class\test.js">
-    <configuration default="false" name="02. Map Sort.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02. Map Sort.js" working-dir="$PROJECT_DIR$/JS-Advanced/MODULES/02. Map Sort">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.buses.html">
     <configuration default="false" name="sortedlist-test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="sortedlist-test.js" working-dir="$PROJECT_DIR$/ExamPrep/02. Sorted List">
       <method />
     </configuration>
@@ -245,6 +207,9 @@
       <extra-mocha-options />
       <test-kind>TEST_FILE</test-kind>
       <test-file>$PROJECT_DIR$/RealExam/02. Sumator Class/test.js</test-file>
+      <method />
+    </configuration>
+    <configuration default="false" name="buses.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core/JS-Applications/EXERCISE REST AND HTTP REQUESTS/01. Bus Stop/buses.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -328,19 +293,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Mocha.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.02. Map Sort.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.sortedlist-test.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.stormWatcher.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="5" class="java.lang.String" itemvalue="Mocha.RealExam\02. Sumator Class\test.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.sortedlist-test.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.stormWatcher.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="4" class="java.lang.String" itemvalue="Mocha.RealExam\02. Sumator Class\test.js" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.buses.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Mocha.RealExam\02. Sumator Class\test.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.stormWatcher.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.sortedlist-test.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.02. Map Sort.js" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.buses.html" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.RealExam\02. Sumator Class\test.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.stormWatcher.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.sortedlist-test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -431,6 +396,7 @@
       <workItem from="1500992451107" duration="1552000" />
       <workItem from="1501077548282" duration="1212000" />
       <workItem from="1501169159947" duration="5064000" />
+      <workItem from="1501239709577" duration="5130000" />
     </task>
     <task id="LOCAL-00001" summary="upp">
       <created>1496256470499</created>
@@ -545,7 +511,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="410292000" />
+    <option name="totallyTimeSpent" value="415422000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
@@ -589,29 +555,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.893/deleteItem.js" />
-    <entry file="file://$PROJECT_DIR$/ExamPrep/01. Move Towns Up Down/move.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExamPrep/01. Add Remove Towns/add-remove-towns.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExamPrep/02. Add LeftRightClearinList/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.696/solution.js" />
     <entry file="file://$PROJECT_DIR$/ExamPrep/02. Add Swap Shift Left Right in List/tests.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -807,7 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
           <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -815,7 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="43" lean-forward="false" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -823,7 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -831,7 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="86">
           <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -839,6 +778,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="597">
           <caret line="40" column="32" lean-forward="false" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/EXERCISE REST AND HTTP REQUESTS/01. Bus Stop/buses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="44" column="40" lean-forward="true" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/EXERCISE REST AND HTTP REQUESTS/02. Bus Schedule/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="18" selection-end-line="80" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/EXERCISE REST AND HTTP REQUESTS/03. Messenger/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/EXERCISE REST AND HTTP REQUESTS/03. Messenger/messenger.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/EXERCISE REST AND HTTP REQUESTS/04. Phonebook/phonebook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
           <folding />
         </state>
       </provider>
