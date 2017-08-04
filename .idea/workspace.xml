@@ -16,22 +16,22 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="fishergame.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JS-Applications/Exercises Asynchronous Programming and Promises/2. Fisher Game/fishergame.js">
+    <leaf>
+      <file leaf-file-name="book-library.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS-Applications/SINGLE PAGE APPLICATIONS/BookLibrary/scripts/book-library.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1500">
-              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS-Applications/Exercises Asynchronous Programming and Promises/3.Create Books REST Service/create.js">
+      <file leaf-file-name="book-library.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS-Applications/SINGLE PAGE APPLICATIONS/BookLibrary/book-library.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="1768">
+              <caret line="104" column="16" lean-forward="false" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -45,8 +45,8 @@
         <option value="TypeScript File" />
         <option value="CSS File" />
         <option value="package_json" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -69,9 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ExamPrep/04. Title Bar/titlebar.html" />
-        <option value="$PROJECT_DIR$/ExamPrep/01. Move Towns Up Down/down.html" />
-        <option value="$PROJECT_DIR$/ExamPrep/01. Move Towns Up Down/move-up-down.html" />
         <option value="$PROJECT_DIR$/ExamPrep/02. Add LeftRightClearinList/list-add-left-right-clear.js" />
         <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.747/solution.js" />
         <option value="$PROJECT_DIR$/ExamPrep/02. Add LeftRightClearinList/test.js" />
@@ -120,6 +117,9 @@
         <option value="$PROJECT_DIR$/JS-Applications/Exercises Asynchronous Programming and Promises/02. Fisher Game/catch.html" />
         <option value="$PROJECT_DIR$/JS-Applications/Exercises Asynchronous Programming and Promises/02. Fisher Game/fishergame.js" />
         <option value="$PROJECT_DIR$/JS-Applications/Exercises Asynchronous Programming and Promises/3.Create Books REST Service/create.js" />
+        <option value="$PROJECT_DIR$/JS-Applications/SINGLE PAGE APPLICATIONS/BookLibrary/scripts/myBookHtml.html" />
+        <option value="$PROJECT_DIR$/JS-Applications/SINGLE PAGE APPLICATIONS/BookLibrary/myBookHtml.html" />
+        <option value="$PROJECT_DIR$/JS-Applications/SINGLE PAGE APPLICATIONS/BookLibrary/scripts/myBookScript.js" />
       </list>
     </option>
   </component>
@@ -159,6 +159,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -184,29 +186,9 @@
               <option name="myItemId" value="JS-Applications" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Exercises Asynchronous Programming and Promises" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS-Applications" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -223,11 +205,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\JS-Core\JS-Applications\SINGLE PAGE APPLICATIONS\BookLibrary" />
       <recent name="D:\SoftUni\JS-Core\ExamPrep\03.Player" />
       <recent name="D:\SoftUni\JS-Core\scripts" />
       <recent name="D:\SoftUni\JS-Core\JS-Advanced\MODULES\01. Person" />
       <recent name="D:\SoftUni\JS-Core\JS-Advanced" />
-      <recent name="D:\SoftUni\JS-Core\JS-Advanced\ExercisejQuery\04. Form Validation" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -455,7 +437,8 @@
       <workItem from="1501335946786" duration="3665000" />
       <workItem from="1501408913082" duration="1866000" />
       <workItem from="1501693936620" duration="1833000" />
-      <workItem from="1501757946865" duration="3447000" />
+      <workItem from="1501757946865" duration="4050000" />
+      <workItem from="1501860342349" duration="10329000" />
     </task>
     <task id="LOCAL-00001" summary="upp">
       <created>1496256470499</created>
@@ -570,13 +553,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="426233000" />
+    <option name="totallyTimeSpent" value="437165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13030747" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13030747" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -595,26 +577,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2917981" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31388012" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13030747" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -630,42 +592,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RealExam/02. Sumator Class.js" />
-    <entry file="file://$PROJECT_DIR$/ExamPrep/02. Add Swap Shift Left Right in List/AddSwapShiftLeftRightinList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExamPrep/02. Add LeftRightClearinList/list-add-left-right-clear.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExamPrep/02. Sorted List/sorted-list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExamPrep/02. Sorted List/sortedlist-test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RealExam/02. Sumator Class/sumator.js" />
-    <entry file="file://$PROJECT_DIR$/RealExam/04. Contacts.js" />
     <entry file="file://$PROJECT_DIR$/RealExam/02. Sumator Class/test.js" />
     <entry file="file://$PROJECT_DIR$/ExamPrep/04. Title Bar/titlebar.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -877,7 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1026">
           <caret line="16" column="45" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -885,9 +815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="38" column="7" lean-forward="false" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -895,15 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1380">
           <caret line="45" column="26" lean-forward="false" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/Exercises Asynchronous Programming and Promises/3.Create Books REST Service/create.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -911,6 +829,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1500">
           <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/Exercises Asynchronous Programming and Promises/3.Create Books REST Service/create.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/scripts/book-library.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-383">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/SINGLE PAGE APPLICATIONS/BookLibrary/styles/book-library.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/SINGLE PAGE APPLICATIONS/BookLibrary/scripts/jquery-3.1.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/SINGLE PAGE APPLICATIONS/BookLibrary/scripts/myBookScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="85" column="37" lean-forward="false" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/SINGLE PAGE APPLICATIONS/BookLibrary/myBookHtml.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="42" column="38" lean-forward="false" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/SINGLE PAGE APPLICATIONS/BookLibrary/book-library.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="104" column="16" lean-forward="false" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/SINGLE PAGE APPLICATIONS/BookLibrary/scripts/book-library.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
           <folding />
         </state>
       </provider>
