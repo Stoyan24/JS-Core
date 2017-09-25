@@ -16,7 +16,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,11 +35,15 @@
       <find>carb</find>
       <find>solution</find>
       <find>tamplate</find>
+      <find>messagesService</find>
+      <find>messagesSevice</find>
+      <find>ads</find>
     </findStrings>
     <replaceStrings>
       <replace>carbohydrates</replace>
       <replace>manager</replace>
       <replace>template</replace>
+      <replace>postService</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -48,21 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JS-Applications/AJAX and jQuery AJAX/02. AJAX Load/ajax-load.html" />
-        <option value="$PROJECT_DIR$/JS-Applications/AJAX and jQuery AJAX/02. AJAX Load/ajax-load.js" />
-        <option value="$PROJECT_DIR$/JS-Applications/AJAX and jQuery AJAX/03. Github Repos/github-repos.html" />
-        <option value="$PROJECT_DIR$/JS-Applications/EXERCISE REST AND HTTP REQUESTS/01. Bus Stop/buses.html" />
-        <option value="$PROJECT_DIR$/JS-Applications/EXERCISE REST AND HTTP REQUESTS/02. Bus Schedule/schedule.html" />
-        <option value="$PROJECT_DIR$/JS-Applications/EXERCISE REST AND HTTP REQUESTS/03. Messenger/messenger.html" />
-        <option value="$PROJECT_DIR$/JS-Applications/EXERCISE REST AND HTTP REQUESTS/03. Messenger/solution.js" />
-        <option value="$PROJECT_DIR$/JS-Applications/EXERCISE REST AND HTTP REQUESTS/04. Phonebook/phonebook.html" />
-        <option value="$PROJECT_DIR$/JS-Applications/Async Programming/01. Github Commits/commits.html" />
-        <option value="$PROJECT_DIR$/JS-Applications/Async Programming/01. Github Commits/commits.html.js" />
-        <option value="$PROJECT_DIR$/JS-Applications/Async Programming/01. Github Commits/commits.js" />
-        <option value="$PROJECT_DIR$/JS-Applications/Async Programming/02. Blog/blog.html" />
-        <option value="$PROJECT_DIR$/JS-Applications/Async Programming/02. Blog/blog.js" />
-        <option value="$PROJECT_DIR$/JS-Applications/Exercises Asynchronous Programming and Promises/1.Forecaster/schedule.html" />
-        <option value="$PROJECT_DIR$/JS-Applications/Exercises Asynchronous Programming and Promises/1.Forecaster/forecaster.js" />
         <option value="$PROJECT_DIR$/JS-Applications/Exercises Asynchronous Programming and Promises/02. Fisher Game/catch.html" />
         <option value="$PROJECT_DIR$/JS-Applications/Exercises Asynchronous Programming and Promises/02. Fisher Game/fishergame.js" />
         <option value="$PROJECT_DIR$/JS-Applications/Exercises Asynchronous Programming and Promises/3.Create Books REST Service/create.js" />
@@ -99,6 +88,21 @@
         <option value="$PROJECT_DIR$/JS-Applications/ExercisePatterns and Routing/Team-Manager-Skeleton/scripts/models/requester.js" />
         <option value="$PROJECT_DIR$/JS-Applications/ExercisePatterns and Routing/Team-Manager-Skeleton/scripts/models/teamsService.js" />
         <option value="$PROJECT_DIR$/JS-Applications/ExercisePatterns and Routing/Team-Manager-Skeleton/scripts/app.js" />
+        <option value="$PROJECT_DIR$/JS-Applications/ExamPrep/12. JS-Apps-Exam-Prep-Market/market.html" />
+        <option value="$PROJECT_DIR$/JS-Applications/ExamPrep/JS-Apps-Exam-Prep-Messages-Kiril/scripts/models/auth.js" />
+        <option value="$PROJECT_DIR$/JS-Applications/ExamPrep/JS-Apps-Exam-Prep-Messages-Kiril/scripts/models/messagesService.js" />
+        <option value="$PROJECT_DIR$/JS-Applications/ExamPrep/JS-Apps-Exam-Prep-Messages-Kiril/scripts/models/requester.js" />
+        <option value="$PROJECT_DIR$/JS-Applications/ExamPrep/JS-Apps-Exam-Prep-Messages-Kiril/scripts/app.js" />
+        <option value="$PROJECT_DIR$/JS-Applications/ExamPrep/RealExam/app.js" />
+        <option value="$PROJECT_DIR$/JS-Applications/ExamPrep/RealExam/scripts/models/messagesService.js" />
+        <option value="$PROJECT_DIR$/JS-Applications/ExamPrep/RealExam/scripts/models/postService.js" />
+        <option value="$PROJECT_DIR$/JS-Applications/ExamPrep/spa-prep/scripts/prodavachnik.js" />
+        <option value="$PROJECT_DIR$/JS-Applications/ExamPrep/RealExam/scripts/models/requester.js" />
+        <option value="$PROJECT_DIR$/JS-Applications/ExamPrep/RealExam/scripts/app.js" />
+        <option value="$PROJECT_DIR$/JS-Applications/ExamPrep/RealExam/index.html" />
+        <option value="module.js" />
+        <option value="$PROJECT_DIR$/JS-Applications/ExamPrep/zada4i.js" />
+        <option value="$PROJECT_DIR$/zada4a 2.js" />
       </list>
     </option>
   </component>
@@ -139,6 +143,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -167,7 +172,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,16 +188,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\JS-Core\JS-Applications\ExamPrep\RealExam" />
       <recent name="D:\SoftUni\JS-Core\JS-Applications\ExerciseTemplating" />
       <recent name="D:\SoftUni\JS-Core\JS-Applications\SINGLE PAGE APPLICATIONS\BookLibrary\scripts" />
       <recent name="D:\SoftUni\JS-Core\JS-Applications\EXERCISE SPA\1.Prodavachnik\complete" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\JS-Core\JS-Applications\ExamPrep\RealExam\scripts" />
+      <recent name="D:\SoftUni\JS-Core\JS-Applications\ExamPrep\RealExam\scripts\models" />
+      <recent name="D:\SoftUni\JS-Core\JS-Applications\ExamPrep\spa-prep" />
+      <recent name="D:\SoftUni\JS-Core\JS-Applications\ExamPrep\styles" />
       <recent name="D:\SoftUni\JS-Core\JS-Applications\ExerciseTemplating\2.HTTPStatusCats" />
-      <recent name="D:\SoftUni\JS-Core\JS-Applications\SINGLE PAGE APPLICATIONS\BookLibrary" />
-      <recent name="D:\SoftUni\JS-Core\ExamPrep\03.Player" />
-      <recent name="D:\SoftUni\JS-Core\scripts" />
-      <recent name="D:\SoftUni\JS-Core\JS-Advanced\MODULES\01. Person" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -208,16 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.buses.html">
-    <configuration default="false" name="sortedlist-test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="sortedlist-test.js" working-dir="$PROJECT_DIR$/ExamPrep/02. Sorted List">
-      <method />
-    </configuration>
-    <configuration default="false" name="stormWatcher.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="stormWatcher.js" working-dir="$PROJECT_DIR$/ExamPrep/03. Storm Watcher">
-      <method />
-    </configuration>
-    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/ExamPrep/02. Add LeftRightClearinList">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.zada4a 2.js">
     <configuration default="false" name="RealExam\02. Sumator Class\test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -231,6 +227,15 @@
       <method />
     </configuration>
     <configuration default="false" name="buses.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core/JS-Applications/EXERCISE REST AND HTTP REQUESTS/01. Bus Stop/buses.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="solution2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="solution2.js" working-dir="$PROJECT_DIR$/ExamPrep">
+      <method />
+    </configuration>
+    <configuration default="false" name="zada4i.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="zada4i.js" working-dir="$PROJECT_DIR$/JS-Applications/ExamPrep">
+      <method />
+    </configuration>
+    <configuration default="false" name="zada4a 2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="zada4a 2.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -314,19 +319,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Mocha.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.sortedlist-test.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.stormWatcher.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="4" class="java.lang.String" itemvalue="Mocha.RealExam\02. Sumator Class\test.js" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.buses.html" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.RealExam\02. Sumator Class\test.js" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.buses.html" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.solution2.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.zada4i.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.zada4a 2.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.buses.html" />
-        <item index="1" class="java.lang.String" itemvalue="Mocha.RealExam\02. Sumator Class\test.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.stormWatcher.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.sortedlist-test.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.zada4a 2.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.zada4i.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.solution2.js" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.buses.html" />
+        <item index="4" class="java.lang.String" itemvalue="Mocha.RealExam\02. Sumator Class\test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -431,6 +436,19 @@
       <workItem from="1502380907656" duration="10636000" />
       <workItem from="1502452677949" duration="7761000" />
       <workItem from="1502634719252" duration="13866000" />
+      <workItem from="1503141379927" duration="3264000" />
+      <workItem from="1503234653722" duration="10875000" />
+      <workItem from="1503246140474" duration="277000" />
+      <workItem from="1503844976383" duration="3616000" />
+      <workItem from="1503936289975" duration="451000" />
+      <workItem from="1504009158183" duration="1750000" />
+      <workItem from="1504108107477" duration="598000" />
+      <workItem from="1504200048349" duration="1199000" />
+      <workItem from="1504257919926" duration="6276000" />
+      <workItem from="1504416082163" duration="16197000" />
+      <workItem from="1504799360990" duration="34000" />
+      <workItem from="1506029953876" duration="487000" />
+      <workItem from="1506352735582" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="upp">
       <created>1496256470499</created>
@@ -545,16 +563,16 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="497167000" />
+    <option name="totallyTimeSpent" value="542214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12664714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13396779" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2917981" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26025236" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31230283" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -566,7 +584,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -610,188 +628,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="18" />
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JS-Applications/EXERCISE SPA/1.Prodavachnik/complete/BookLibrary/book-library.html" />
-    <entry file="file://$PROJECT_DIR$/JS-Applications/EXERCISE SPA/1.Prodavachnik/complete/BookLibrary/styles/book-library.css" />
-    <entry file="file://$PROJECT_DIR$/JS-Applications/EXERCISE SPA/1.Prodavachnik/complete/BookLibrary/scripts/book-library.js" />
-    <entry file="file://$PROJECT_DIR$/JS-Applications/EXERCISE SPA/1.Prodavachnik/styles/prodavachnik.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="205" column="13" lean-forward="false" selection-start-line="205" selection-start-column="13" selection-end-line="205" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/EXERCISE SPA/1.Prodavachnik/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="110" column="78" lean-forward="false" selection-start-line="110" selection-start-column="78" selection-end-line="110" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/SINGLE PAGE APPLICATIONS/BookLibrary/book-library.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/Templating/templates/details.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/Templating/style/contact.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="79" column="19" lean-forward="false" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/Templating/templates/contactsList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/Templating/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/Templating/templates/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/Templating/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/Templating/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1032">
-          <caret line="43" column="33" lean-forward="false" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/1.List Towns/li-template.html" />
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/1.List Towns/listtown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/1.List Towns/towns.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/2.HTTPStatusCats/catSeeder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/2.HTTPStatusCats/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/2.HTTPStatusCats/cats.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/3.Contact-book/templates/details.html" />
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/3.Contact-book/templates/contactsList.html" />
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/3.Contact-book/templates/contact.html" />
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/3.Contact-book/index.html" />
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/3.Contact-book/data.json" />
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/3.Contact-book/app.js" />
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/3.Prodavachnik/scripts/prodavachnik.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="257" column="24" lean-forward="false" selection-start-line="257" selection-start-column="24" selection-end-line="257" selection-end-column="24" />
-          <folding>
-            <element signature="n#!!block;n#showView#0;n#!!block;n#startApp#0" expanded="false" />
-            <element signature="n#!!block;n#navigateTo#0;n#!!block;n#startApp#0" expanded="false" />
-            <element signature="e#1889#2057#0" expanded="false" />
-            <element signature="n#!!block;n#showInfo#0;n#!!block;n#startApp#0" expanded="false" />
-            <element signature="n#!!block;n#showError#0;n#!!block;n#startApp#0" expanded="false" />
-            <element signature="n#!!block;n#handleError#0;n#!!block;n#startApp#0" expanded="false" />
-            <element signature="e#2587#4169#0" expanded="false" />
-            <element signature="e#4272#4303#0" expanded="false" />
-            <element signature="e#4309#4341#0" expanded="false" />
-            <element signature="n#!!block;n#userLoggedIn#0;n#!!block;n#startApp#0" expanded="false" />
-            <element signature="n#!!block;n#userLoggedOut#0;n#!!block;n#startApp#0" expanded="false" />
-            <element signature="n#!!block;n#saveSession#0;n#!!block;n#startApp#0" expanded="false" />
-            <element signature="n#!!block;n#login#0;n#!!block;n#startApp#0" expanded="false" />
-            <element signature="n#!!block;n#register#0;n#!!block;n#startApp#0" expanded="false" />
-            <element signature="n#!!block;n#logout#0;n#!!block;n#startApp#0" expanded="false" />
-            <element signature="n#!!block;n#editAd#0;n#!!block;n#startApp#0" expanded="false" />
-            <element signature="n#!!block;n#createAd#0;n#!!block;n#startApp#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/3.Prodavachnik/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="8" column="58" lean-forward="false" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/3.Prodavachnik/templates/ads-catalog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/3.Prodavachnik/templates/ad-box-partial.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-Applications/ExerciseTemplating/3.Prodavachnik/styles/prodavachnik.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="214" column="16" lean-forward="false" selection-start-line="214" selection-start-column="16" selection-end-line="214" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JS-Applications/Patterns and Routing/Router/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
@@ -834,18 +675,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.456/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.456/app.js" />
     <entry file="file://$PROJECT_DIR$/JS-Applications/Patterns and Routing/Contact-Book-new/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -853,10 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <marker date="1502208915030" expanded="true" signature="6614:6622" ph="..." />
-            <marker date="1502208915030" expanded="true" signature="6799:6806" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -864,7 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-261">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -872,7 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -880,7 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -888,7 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -896,7 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
           <caret line="2" column="1493" lean-forward="false" selection-start-line="2" selection-start-column="147" selection-end-line="2" selection-end-column="147" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -904,7 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -912,7 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="53" column="5" lean-forward="false" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -920,7 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="67" column="5" lean-forward="false" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -928,7 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -936,10 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="172" column="39" lean-forward="false" selection-start-line="172" selection-start-column="39" selection-end-line="172" selection-end-column="39" />
-          <folding>
-            <element signature="e#3611#4118#0" expanded="false" />
-            <element signature="e#7069#7797#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -947,6 +764,171 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/Skeleton/market.html" />
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/12. JS-Apps-Exam-Prep-Market/scripts/models/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-686">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/12. JS-Apps-Exam-Prep-Market/templates/common/header.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/12. JS-Apps-Exam-Prep-Market/scripts/models/requester.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-142">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/JS-Apps-Exam-Prep-Messages-Kiril/steps.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/RealExam/style/header.css" />
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/JS-Apps-Exam-Prep-Messages-Kiril/scripts/models/requester.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="5" lean-forward="false" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/JS-Apps-Exam-Prep-Messages-Kiril/scripts/models/messagesService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="5" lean-forward="false" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/JS-Apps-Exam-Prep-Messages-Kiril/scripts/models/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="37" column="5" lean-forward="false" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/RealExam/style/notifications.css" />
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/JS-Apps-Exam-Prep-Messages-Kiril/messages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1273">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/12. JS-Apps-Exam-Prep-Market/templates/shop/shopProduct.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/12. JS-Apps-Exam-Prep-Market/scripts/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3066">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/12. JS-Apps-Exam-Prep-Market/scripts/models/marketService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/12. JS-Apps-Exam-Prep-Market/market.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/RealExam/scripts/models/auth.js" />
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/12. JS-Apps-Exam-Prep-Market/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1887">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/JS-Apps-Exam-Prep-Messages-Kiril/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-704">
+          <caret line="150" column="42" lean-forward="false" selection-start-line="150" selection-start-column="42" selection-end-line="150" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/spa-prep/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="54" column="14" lean-forward="true" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/spa-prep/scripts/prodavachnik.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="274" column="46" lean-forward="false" selection-start-line="274" selection-start-column="46" selection-end-line="274" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/RealExam/scripts/models/requester.js" />
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/RealExam/scripts/app.js" />
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/RealExam/jquery-3.1.1.min.js" />
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/RealExam/scripts/models/postService.js" />
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/RealExam/index.html" />
+    <entry file="file://$PROJECT_DIR$/ExamPrep/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExamPrep/solution4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-235">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExamPrep/solution2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="59" lean-forward="false" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zada4a 2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-Applications/ExamPrep/zada4i.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="52" column="20" lean-forward="false" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExamPrep/solution3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
